@@ -1,6 +1,6 @@
 # ByteCoin
 
-An app that shows the Bitcoin (BTC) price in the most used fiat currencies such as USD, GBP, BRL based on [CoinAPI.io](https://www.coinapi.io).
+An app that shows the Bitcoin (BTC) price in the most used fiat currencies such as USD, GBP & BRL based on [CoinAPI.io](https://www.coinapi.io).
 
 Made with swift storyboards for IOS >= 13, using both Delegation & Model–view–controller design patterns.
 
